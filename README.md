@@ -1,4 +1,6 @@
-![image](https://github.com/cziter15/uhostmon/assets/5003708/ac1abfd4-87f6-4847-8e4c-89e0e2bd2135)# uhostmon
+
+
+# uhostmon
 This is a simple python utility build up on top of paho-mqtt and psutil to monitor my HomeAssistant host machine.
 The machine is Dell Wyse 5060 with AMD K10 CPU, but it should be easy to modify this script to read from other devices as well.
 
