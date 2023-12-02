@@ -6,8 +6,8 @@ import paho.mqtt.client as mqtt
 ###################### GLOBAL SETTINGS ######################
 HWMON_MQTT_PREFIX = "hwinfo/"
 HWMON_MQTT_PORT = 1883
-HWMON_METRIC_UPDATE_INTERVAL_S = 3 		# metric update interval
-HWMON_METRIC_SEND_INTERVAL_S = 15 		# metric intervals to pass to send the metric
+HWMON_METRIC_UPDATE_INTERVAL_S = 1 		# metric update interval
+HWMON_METRIC_SEND_INTERVAL_S = 30 		# metric intervals to pass to send the metric
 HWMON_KEEPALIVE_INTERVAL_S = 60
 HWMON_ROUNDING_PRECISION = 1
 #############################################################
