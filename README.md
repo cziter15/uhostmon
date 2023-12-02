@@ -1,5 +1,5 @@
-
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MQTT](https://img.shields.io/badge/-MQTT-%238D6748?style=for-the-badge)
+ 
 # uhostmon
 This is a simple python utility build up on top of paho-mqtt and psutil to monitor my HomeAssistant host machine.
 The machine is Dell Wyse 5060 with AMD K10 CPU, but it should be easy to modify this script to read from other devices as well.
