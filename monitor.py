@@ -106,7 +106,7 @@ class HwMonitor:
 		if self._client.loop() != mqtt.MQTT_ERR_SUCCESS:
 			try:
 				time.sleep(1.0)
-				self.client.reconnect()
+				self._client.reconnect()
 			except:
 				pass
 		else:
