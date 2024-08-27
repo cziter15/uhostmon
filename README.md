@@ -27,5 +27,10 @@ host=<your mqtt hostname>
 Then, you should create a bash script, which you'll put somewhere to automatically start this python script on boot.
 
 # Screenshots
-![image](https://github.com/cziter15/uhostmon/assets/5003708/d7064310-85e2-4788-968f-4930bf5ecfad)
+- Home Assistant dasboard
+
+![image](https://github.com/user-attachments/assets/d41f1c33-7706-48bf-9739-6853c9bd076b)
+
+- MQTT explorer (see hwinfo topic)
+
 ![image](https://github.com/cziter15/uhostmon/assets/5003708/a11ea6b3-8fef-4883-8bea-9d8801351935)
